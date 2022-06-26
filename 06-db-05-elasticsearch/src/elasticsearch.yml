@@ -1,0 +1,4 @@
+node.name: "netology_test"
+path:
+  logs: /var/lib/log
+  data: /var/lib/data
