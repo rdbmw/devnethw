@@ -65,7 +65,7 @@
 ### Ответ
 
 1. Ранее создавали образ с помощью Packer.
-2. [Конфигурация terraform](./src/terrafom/)
+2. [Конфигурация terraform](https://github.com/rdbmw/devnethw/tree/main/07-terraform-02-syntax/src/terraform)
 
 **Применение конфигурации**
 
